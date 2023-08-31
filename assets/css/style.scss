@@ -4,4 +4,20 @@
 
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
+  "minima/initialize",
+  "https://fonts.googleapis.com/css2?family=Lato&family=Noto+Serif:wght@300&family=Roboto+Slab:wght@300&display=swap";
+
+
+body{
+  background-color: rgb(131, 143, 103);
+}
+a{
+  color: rgb(240, 239, 197);
+}
+h1{
+  font: Lato, Sans-serif;
+}
+img{
+  height: 300;
+  width: 400;
+}
