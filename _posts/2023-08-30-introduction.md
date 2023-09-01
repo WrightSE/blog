@@ -1,5 +1,7 @@
 ---
 layout: post
+author:
+- Sarah Wright
 ---
 
 Thankfully this blog was fairly straight forward to set up. I did have a few errors but they were entirely user caused. Part of the reason that this blog was so easy to set up is because of the tutorial provided [here](https://hendrix-cs.github.io/csci340/labs/jekyll.html) in conjunction with my websystems and databases class.
